@@ -1,0 +1,26 @@
+{
+  "name": "fifa-arenapulse-2026",
+  "version": "1.1.0",
+  "description": "FIFA World Cup 2026 GenAI Stadium Operations & Fan Assistant Dashboard",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --env=jsdom",
+    "lint": "eslint app.js mockData.js"
+  },
+  "keywords": [
+    "fifa",
+    "world-cup",
+    "stadium",
+    "genai",
+    "operations",
+    "dashboard",
+    "accessibility"
+  ],
+  "author": "Antigravity AI Pair Programmer",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "eslint": "^8.57.0"
+  }
+}
